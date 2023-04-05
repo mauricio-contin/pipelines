@@ -18,7 +18,8 @@ class App extends Component {
 
           <h1 className="App-title">Welcome to FIAP 15 DVP Matheus"</h1>
 
-        </header>
+        </p>
+
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
           Made by: Matheus
