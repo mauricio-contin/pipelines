@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import mba from './koba.png';
+import mba from './koba.jpg';
 import './App.css';
 
 class App extends Component {
