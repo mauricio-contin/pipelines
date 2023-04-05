@@ -12,13 +12,7 @@ class App extends Component {
           <h1 className="App-title">Sem risadinha</h1>
         </header>
         <p className="App-intro">
-          premissa:
-substantivo feminino
-1.
-LÓGICA
-cada uma das proposições que compõem um silogismo e em que se baseia a conclusão.
-2.
-ponto ou ideia de que se parte para armar um raciocínio.</code> and save to reload.
+          premissa:substantivo feminino, cada uma das proposições que compõem um silogismo e em que se baseia a conclusão.Ponto ou ideia de que se parte para armar um raciocínio.</code> and save to reload.
         </p>
       </div>
     );
