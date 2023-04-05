@@ -12,7 +12,7 @@ class App extends Component {
           <h1 className="App-title">Sem risadinha</h1>
         </header>
         <p className="App-intro">
-          premissa: Cada uma das proposições que compõem um silogismo e em que se baseia a conclusão.
+          Premissa: Cada uma das proposições que compõem um silogismo e em que se baseia a conclusão.
         </p>
       </div>
     );
